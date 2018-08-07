@@ -1,0 +1,8 @@
+{
+    "rules":{
+        "react/prop-types":0
+    },
+    "parserOptions": {
+        "ecmaVersion": 7
+    }
+}
